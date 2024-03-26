@@ -18,10 +18,10 @@ I'm proficient in the following languages and technologies:
 I'm continually learning and expanding my coding knowledge.
 
 ## Current Projects
-### [Techwave](https://github.com/Marczelloo/BeatBuddy-Discord-Bot)
+### [Techwave](https://github.com/Marczelloo/TechWave)
 TechWave is an ambitious project aimed at creating an immersive online technology shopping experience. Similar in concept to platforms like Amazon or the Polish retailer X-kom, TechWave strives to provide a comprehensive range of tech products coupled with a user-friendly interface and seamless functionality.
 
-### [Discord Music Bot: BeatBuddy](https://github.com/Marczelloo/TechWave)
+### [Discord Music Bot: BeatBuddy](https://github.com/Marczelloo/BeatBuddy-Discord-Bot)
 BeatBuddy is a Discord music bot capable of various features, such as playing YouTube and Spotify playlists, offering equalizer options, and an autoplay function.
 
 ### [Simple Snake Game](https://github.com/Marczelloo/Simple-Snake-Game)
