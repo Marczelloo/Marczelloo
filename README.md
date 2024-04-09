@@ -1,4 +1,4 @@
-# Hi, I'm Marcel, aka Marczellloo
+# Hi, I'm Marcel, aka Marczelloo
 Coding is not just a hobby for me; it's also a passion I intend to pursue in the future.
 
 ## Current Skills
