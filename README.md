@@ -19,12 +19,8 @@ I'm continually learning and expanding my coding knowledge.
 
 ## Current Projects
 
-### [Discord Music Bot: BeatBuddy](https://github.com/Marczelloo/BeatBuddy-Discord-Bot)
-BeatBuddy is a Discord music bot capable of various features, such as playing YouTube and Spotify playlists, offering equalizer options, and an autoplay function.
-
-### [Clipit](https://github.com/Marczelloo/clipit)
-Clipit is website for sharing and editing clips in one place.
-
+### [Discord Music Bot: NeoBeat-Buddy]([https://github.com/Marczelloo/BeatBuddy-Discord-Bot](https://github.com/Marczelloo/NeoBeat-Buddy))
+Neo Beat Buddy is a Discord music bot built with Discord.js, Lavalink, and Poru, featuring slash-only controls, queue management, live equalizer presets, and a Docker-ready production stack
 
 ## Future Project Ideas
 
