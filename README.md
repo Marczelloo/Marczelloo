@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 I’m a **Computer Science student** at the University of Silesia  
-🧑‍💻 Certified **Full-Stack Developer** (INF.03 & INF.04)  
+🧑‍💻 Certified in **INF.03** (Web Dev & Databases) and **INF.04** (App Development)  
 🌐 I mainly build **Node.js apps** and **full-stack web apps** with Express, MVC, MySQL, and Tailwind  
 🚀 Currently learning **Next.js** and exploring the **T3 stack** to expand my full-stack skills  
 ⚡ Coding is not only my profession but also my **hobby**  
