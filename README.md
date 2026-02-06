@@ -99,11 +99,11 @@ WORKFLOW        AI-assisted development · GitHub Copilot
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marczelloo&show_icons=true&hide_border=true&hide_title=true&theme=transparent&text_color=888888&icon_color=888888&hide_rank=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Marczelloo&show_icons=true&theme=dark&hide_border=true)
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marczelloo&layout=compact&hide_border=true&hide_title=true&theme=transparent&text_color=888888)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marczelloo&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
