@@ -1,58 +1,127 @@
-# 💫 About Me:
-🎓 I’m a **Computer Science student** at the University of Silesia  
-🧑‍💻 Certified in **INF.03** (Web Dev & Databases) and **INF.04** (App Development)  
-🌐 I mainly build **Node.js apps** and **full-stack web apps** with Express, MVC, MySQL, and Tailwind  
-🚀 Currently learning **Next.js** and exploring the **T3 stack** to expand my full-stack skills  
-⚡ Coding is not only my profession but also my **hobby**  
-🤖 I use **AI tools** to work smarter and more effectively  
-🔭 Working on: my **personal portfolio (Next.js + Tailwind)**, hosting projects under subdomains on **marczelloo.dev**, and developing **NeoBeat Buddy** (Discord music bot)  
+<div align="center">
+
+# Marcel Moskwa
+
+**`Full-Stack Developer`** · **`CS Student @ University of Silesia`** · **`Self-Hosting Enthusiast`**
+
+<br>
+
+[![](https://img.shields.io/badge/→_marczelloo.dev-black?style=flat-square)](https://marczelloo.dev)
+[![](https://img.shields.io/badge/→_contact_me-black?style=flat-square)](mailto:moskwamarcel@gmail.com)
+
+</div>
+
+<br>
+
+> *I build full-stack web applications and self-host them on my own infrastructure.*  
+> *Currently exploring the T3 stack and Next.js ecosystem.*
+
+<br>
 
 ---
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moskwamarcel@gmail.com)  
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### What I'm Building
+
+<br>
+
+```
+┌─────────────────────────────────────┐
+│  ● marczelloo.dev          ACTIVE   │
+│    Personal portfolio & domain      │
+├─────────────────────────────────────┤
+│  ● NeoBeat Buddy           ACTIVE   │
+│    Discord music bot                │
+├─────────────────────────────────────┤
+│  ◐ AtlasHub            IN PROGRESS  │
+│    Self-hosted data layer API       │
+├─────────────────────────────────────┤
+│  ◐ Marczelloo Dashboard IN PROGRESS │
+│    Project management panel         │
+├─────────────────────────────────────┤
+│  ◐ Statune             IN PROGRESS  │
+│    Statistics & analytics tool      │
+├─────────────────────────────────────┤
+│  ◐ StudyHub            IN PROGRESS  │
+│    Learning management system       │
+└─────────────────────────────────────┘
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Stack
+
+<br>
+
+```
+LANGUAGES       TypeScript · JavaScript · C++
+
+FRONTEND        React · Next.js · Tailwind CSS
+
+BACKEND         Node.js · Express · tRPC
+
+DATA            PostgreSQL · MySQL · MongoDB · Prisma
+
+WORKFLOW        AI-assisted development · GitHub Copilot
+```
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-# 💻 Tech Stack:
+<br>
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
+<div align="center">
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black)  
+### Toolbelt
 
-**Backend**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)  
+<br>
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  
+`Git` · `GitHub` · `Vercel` · `Docker` · `Portainer` · `Cloudflare` · `Raspberry Pi` · `pnpm` · `Prisma`
 
-**Tools**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE)  
+</div>
 
+<br>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Marczelloo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marczelloo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Marczelloo&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=888&icon_color=888&hide_rank=true" width="400">
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marczelloo&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=888)
+
+</div>
+
+<br>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Marczelloo&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+```
+INF.03 Web Development & Databases  ✓
+INF.04 Application Development      ✓
+```
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Marczelloo&style=flat-square&color=888888&label=views)
+
+</div>
