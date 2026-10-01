@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="52" viewBox="0 0 224 52">
+<style>@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<path d="M224 6H11A11 11 0 0 0 0 17V39A11 11 0 0 0 11 50H224Z" fill="#17161e"/><path d="M224 6.5H11A10.5 10.5 0 0 0 .5 17V39A10.5 10.5 0 0 0 11 49.5H224" fill="none" stroke="#ffffff" stroke-opacity="0.1"/><g transform="translate(16 16)"><path d="M13.5 2.5a8 8 0 1 0 5 12.6A7 7 0 0 1 13.5 2.5z" fill="#E7E3D6"/><rect x="16" y="3" width="1.8" height="1.8" fill="#fff"/><rect x="19" y="8" width="1.4" height="1.4" fill="#fff"/></g><text x="48" y="25" font-family="'Segoe UI Variable','Segoe UI',system-ui,-apple-system,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#F1EFE8">11°C</text><text x="48" y="38" font-family="'Segoe UI Variable','Segoe UI',system-ui,-apple-system,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="10.5" fill="#9d9a90">Clear</text>
+</svg>

@@ -1,0 +1,38 @@
+{
+  "width": 840,
+  "clock": { "day": "14:32", "night": "23:47" },
+  "date": "2026-10-01",
+  "lang": ["POL", "PL"],
+  "weather": { "day": "19°C|Sunny", "night": "11°C|Clear" },
+  "pets": [
+    {
+      "id": "clawd", "skin": "clawd", "state": "typing", "x": 250,
+      "bubble": ["editing", "atlashub/src/api.ts"]
+    },
+    {
+      "id": "kodek", "skin": "kodek",
+      "state": { "day": "walking", "night": "sleeping" },
+      "x": { "day": 495, "night": 575 }, "range": [495, 665],
+      "bubble": { "day": ["running tests", "agent-router-mcp"], "night": ["zzz… idle 41m"] }
+    },
+    {
+      "id": "pip", "skin": "clawd", "grey": true, "state": "sleeping", "x": 766, "y": 215,
+      "bubble": ["zzz… idle 3h"]
+    }
+  ],
+  "apps": [
+    { "id": "mewbit", "label": "MewBit", "url": "https://github.com/Marczelloo/MewBit", "active": false },
+    { "id": "atlashub", "label": "AtlasHub", "url": "https://github.com/Marczelloo/atlashub", "active": "clawd" },
+    { "id": "dashboard", "label": "Marczelloo Dashboard", "url": "https://github.com/Marczelloo/Marczelloo-dashboard", "active": false },
+    { "id": "agent-pets", "label": "agent-pets", "url": "https://github.com/Marczelloo/agent-pets", "active": false },
+    { "id": "agent-router-mcp", "label": "agent-router-mcp", "url": "https://github.com/Marczelloo/agent-router-mcp", "active": { "day": "kodek", "night": false } },
+    { "id": "marczelloo-dev", "label": "marczelloo.dev", "url": "https://marczelloo.dev", "active": false }
+  ],
+  "desktopIcons": [
+    { "type": "cs", "label": ["Computer Science", "@ UŚ"] },
+    { "type": "cert", "accent": "#2f6fd6", "badge": "INF.03", "label": ["INF.03.cert"] },
+    { "type": "cert", "accent": "#E0742F", "badge": "INF.04", "label": ["INF.04.cert"] },
+    { "type": "url", "label": ["marczelloo.dev"] },
+    { "type": "exe", "label": ["agent-pets.exe"] }
+  ]
+}

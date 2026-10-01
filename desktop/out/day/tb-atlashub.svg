@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="52" viewBox="0 0 56 52">
+<style>.ul{transform-box:fill-box;transform-origin:50% 50%;animation:ul 3s ease-in-out infinite}@keyframes ul{0%,100%{transform:scaleX(.55)}50%{transform:scaleX(1)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<path d="M0 6H56V50H0Z" fill="#1b2133"/><path d="M0 6.5H56M0 49.5H56" fill="none" stroke="#ffffff" stroke-opacity="0.13"/><rect x="5" y="9" width="46" height="38" rx="8" fill="#fff" fill-opacity="0.08"/><rect class="ul" x="20" y="44" width="16" height="3" rx="1.5" fill="#D97757"/><g transform="translate(14 13) scale(.875)"><defs><linearGradient id="aatlashubt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#27D3A2"/><stop offset="1" stop-color="#087C8C"/></linearGradient></defs><rect x="1" y="1" width="30" height="30" rx="8" fill="url(#aatlashubt)"/><rect x=".5" y=".5" width="31" height="31" rx="8.5" fill="none" stroke="#fff" stroke-opacity=".16"/>
+<g fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round">
+<ellipse cx="16" cy="9.6" rx="7.2" ry="2.8" fill="#fff" fill-opacity=".95" stroke="none"/>
+<path d="M8.8 9.6v12.8c0 1.6 3.2 2.8 7.2 2.8s7.2-1.2 7.2-2.8V9.6" fill="#fff" fill-opacity=".18"/>
+<path d="M8.8 14.2c0 1.6 3.2 2.8 7.2 2.8s7.2-1.2 7.2-2.8M8.8 18.3c0 1.6 3.2 2.8 7.2 2.8s7.2-1.2 7.2-2.8"/></g>
+<ellipse cx="16" cy="17" rx="13.4" ry="4.6" transform="rotate(-24 16 17)" fill="none" stroke="#fff" stroke-opacity=".7" stroke-width="1.1" stroke-dasharray="2.4 2.2"/>
+<circle cx="26.8" cy="10.2" r="2" fill="#FFD166"/></g>
+</svg>

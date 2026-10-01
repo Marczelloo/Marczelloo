@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="52" viewBox="0 0 56 52">
+<style>@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<path d="M0 6H56V50H0Z" fill="#1b2133"/><path d="M0 6.5H56M0 49.5H56" fill="none" stroke="#ffffff" stroke-opacity="0.13"/><g transform="translate(18 16) scale(.625)"><defs><linearGradient id="sts" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6FD3FF"/><stop offset="1" stop-color="#1F78E6"/></linearGradient></defs>
+<g fill="url(#sts)"><rect x="3" y="3" width="12.2" height="12.2" rx="2"/><rect x="16.8" y="3" width="12.2" height="12.2" rx="2"/><rect x="3" y="16.8" width="12.2" height="12.2" rx="2"/><rect x="16.8" y="16.8" width="12.2" height="12.2" rx="2"/></g></g>
+</svg>
